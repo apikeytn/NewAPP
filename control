@@ -1,0 +1,8 @@
+Package: com.zexis.so
+Name: IMGuiMod
+Depends: mobilesubstrate
+Version: 4.0
+Architecture: iphoneos-arm
+Description: ModMenu
+Maintainer: Zexis
+Author: Zexis
